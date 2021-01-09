@@ -1,0 +1,16 @@
+/usr/local/lib/pkgconfig/sentencepiece.pc
+/usr/local/lib/libsentencepiece.so.0.0.0
+/usr/local/lib/libsentencepiece.so.0
+/usr/local/lib/libsentencepiece.so
+/usr/local/lib/libsentencepiece_train.so.0.0.0
+/usr/local/lib/libsentencepiece_train.so.0
+/usr/local/lib/libsentencepiece_train.so
+/usr/local/lib/libsentencepiece.a
+/usr/local/lib/libsentencepiece_train.a
+/usr/local/bin/spm_encode
+/usr/local/bin/spm_decode
+/usr/local/bin/spm_normalize
+/usr/local/bin/spm_train
+/usr/local/bin/spm_export_vocab
+/usr/local/include/sentencepiece_trainer.h
+/usr/local/include/sentencepiece_processor.h
